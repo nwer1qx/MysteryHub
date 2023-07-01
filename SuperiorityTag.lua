@@ -9,6 +9,8 @@ local cool = {
     {1574328322, "👑MysteryHub - Superiority👑", 1},
     {4222612058, "👑MysteryHub - Superiority👑", 1},
     {4171996484, "👑MysteryHub - Superiority👑", 1},
+    {2843968848, "👑MysteryHub - Superiority👑", 1},
+    {4455703917, "👑MysteryHub - Superiority👑", 1},
 }
 
 local function isCool(player)
